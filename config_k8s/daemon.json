@@ -1,0 +1,4 @@
+{
+  "insecure-registries": ["registry.k8s.io"],
+"exec-opts": ["native.cgroupdriver=systemd"]
+}

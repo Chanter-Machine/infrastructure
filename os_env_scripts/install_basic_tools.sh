@@ -12,4 +12,5 @@ sudo apt-get install net-tools -y
 echo -e "${GREEN}# 安装openssh server${NC}"
 sudo apt install openssh-server -y
 
-
+echo -e "${GREEN}# 安装OpenVPN客户端${NC}"
+sudo apt-get install openvpn -y
